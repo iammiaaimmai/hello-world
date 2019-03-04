@@ -1,3 +1,1 @@
-# hello-world
-creating repository
-i am iammia
+#hello helllo
